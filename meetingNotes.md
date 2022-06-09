@@ -50,4 +50,4 @@ $\gamma_{3}$ | 1.100
 
 <font size="3">I was playing around by plotting the particles in spherical coords and seeing the spirals develop. Since spirals with constance pitch angle are indicative of gravitational instability (https://ui.adsabs.harvard.edu/abs/2018ApJ...860L...5F/abstract) I thought it would be cool to see them going from gravitational instability spirals to planet driven ones with pitch angles increasing with radius. The video is quite large so you can view it on the website (http://www.star.uclan.ac.uk/~afenton/Downloads.html)</font>
 
-##### Also been writing some bits in the numerical hydrodynamics chapter, you can see that on overleaf.
+## I have also written some of the numerical hydrodynamics chapter, you can see that on overleaf.
