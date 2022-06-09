@@ -5,8 +5,8 @@ From clump profiles we can identify 3 main groups of clumps:
 - Clumps with weak first core (yellow line)
 - Clumps with apparently no first core (green line)<br>
 
-![](clump_profiles.png)
-![](specific_angular_momentum.png)
+![](clump_profiles_3types.png)
+![](specific_angular_momentum_3types.png)
 Characteristic| Weak fc | No fc
 :--------:|:------:|:-------:|
 ![](clump001slow_-9.gif) |![](clump004slow_-9.gif)  | ![](clump012slow_-9.gif)
