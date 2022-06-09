@@ -7,12 +7,16 @@ From clump profiles we can identify 3 main groups of clumps:
 
 ![](clump_profiles_3types.png)
 ![](specific_angular_momentum_3types.png)
+ <font size="4">The clump with both the first and second core and the clump with a weak first core have kind of comparible masses but the clump with no first core at all has a noticable mass discrepancy. The energies are fairly consistent across the three types of clump. The temperature and densties (which we expect to look sort of simular due to the EOS) do show some differences between the three types. Using the 'standard' clump with both first and second core as a point of reference, the clump with the weak first core is hotter outside of approx 0.1 AU and therefore has more thermal support.<br>
+ As for the angular momemtum, the two non-standard clumps have a simular shaped plot of cumulative L with the clump with no first core having a lower value overall.
+ </font>
+
 #### Cross sections in y of the three different types of clumps
 Characteristic| Weak fc | No fc
 :--------:|:------:|:-------:|
 ![](clump001slow_-9.gif) |![](clump004slow_-9.gif)  | ![](clump012slow_-9.gif)
 
- <font size="4">The clumps with a weak first core and with no first core at all are more extended with a disc about them.</font>
+ <font size="7">The clumps with a weak first core and with no first core at all are more extended with a disc about them.</font>
 
 ### Clumps with no first core
 ---
@@ -29,8 +33,8 @@ $\gamma_{3}$ | 1.100
 ![](clump_profiles_nfc.png)
 ![](specific_angular_momentum_nfc.png)
 
-
-I need to plot these clumps with different values on the graph thats shows M,R and L as a function of R.
+ <font size="4">I need to plot these clumps with different values on the graph thats shows M,R and L as a function of R. You can actually see than the blue and yellow lines (clumps 3 and 4) do have weak first cores rather than no core at all and these two do trace one another in all 7 of the above plots. It it hard to make out on these plots but perhaps there is a subgroup that seperates the green and red lines or maybe its just a question of mass. I want to explore this a bit more, like where to the clumps with no first core form in the disc and at what **time**?
+.</font>
 
 
 ### All clumps M,R and L as a function of R
